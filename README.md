@@ -1,5 +1,5 @@
 # Random-Forest-Classifier
-This project uses lending data from 2007-2010 provided by [LendingClub.com] to classify and predict whether or not a borrower will paid back their loan in full or not. The Lending Club connects people who need money (borrowers) with people who have money (investors). The dataset is located at https://www.lendingclub.com/info/download-data.action
+This project uses lending data from 2007-2010 provided by [LendingClub.com] to classify and predict whether or not a borrower will pay back their loan in full or not. The Lending Club connects people who need money (borrowers) with people who have money (investors). The dataset is located at https://www.lendingclub.com/info/download-data.action
 The fields description includes the following:
 1. credit.policy: 1 if the customer meets the credit underwriting criteria of LendingClub.com, and 0 otherwise.
 2. purpose: The purpose of the loan (takes values "credit_card", "debt_consolidation", "educational", "major_purchase", "small_business", and "all_other").
